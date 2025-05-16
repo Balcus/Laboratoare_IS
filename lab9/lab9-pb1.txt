@@ -1,0 +1,10 @@
+1. Conceptele identificate sunt:
+ - Profesor
+ - Student
+ - StudentCuTaxa (subtip de Student)
+ - Secretara
+ - Nota
+ - Raport
+ - Autentificare
+
+3. Conceptul de StudentCuTaxa este o specializare a conceptului de Student. 
